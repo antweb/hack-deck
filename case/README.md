@@ -17,3 +17,5 @@ Optional top cover.
 
 ### solder_holder
 Soldering aid that holds the switches in places and alings them correctly.
+
+![model](../images/solder_holder.png "Soldering aid")
