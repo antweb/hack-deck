@@ -2,6 +2,8 @@
 
 A simple macro keyboard designed from scratch.
 
+![photo](images/assembled.jpg "Assembled project")
+
 ## Overview
 
 ### Microcontroller
